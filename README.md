@@ -2,7 +2,7 @@
 
 ![Covid19 Dashboard](https://user-images.githubusercontent.com/102762042/221011686-76a1b161-8b03-427c-b658-8b1afc5aa3d6.png)
 
-https://public.tableau.com/shared/D22G5H9J5?:display_count=n&:origin=viz_share_link
+[https://public.tableau.com/shared/D22G5H9J5?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Covid19IndiaDataAnalysis_16771805727980/Covid19Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Data Source:[Kaggle]
 1. https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india?datasetId=557629&sortBy=voteCount
